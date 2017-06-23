@@ -1,3 +1,6 @@
+/*I'm not responsable of the use of this code , it's made for research purposes .
+So please don't use this code to do bad things ;)*/
+
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
